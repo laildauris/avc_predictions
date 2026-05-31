@@ -1,5 +1,11 @@
 streamlit
 pandas
 numpy
-plotly
 scikit-learn
+torch==2.2.2
+pytorch-tabnet
+joblib
+shap
+lime
+fpdf
+cryptography
